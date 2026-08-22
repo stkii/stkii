@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="510" height="215" viewBox="0 0 510 215" role="img" aria-label="whoami: stkii — interests: math, statistics, cryptography — portfolio: https://stkii.github.io">
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="215" viewBox="0 0 430 215" role="img" aria-label="whoami: stkii — interests: math, statistics, cryptography — portfolio: https://stkii.github.io">
   <title>whoami — stkii</title>
   <style>
     .card { fill: #f6f8fa; stroke: #d0d7de; }
@@ -18,7 +18,7 @@
     }
   </style>
 
-  <rect class="card" x="16.75" y="0.75" width="492.5" height="213.5" rx="12" />
+  <rect class="card" x="16.75" y="0.75" width="412.5" height="213.5" rx="12" />
 
   <text class="ch prompt" x="57.4" y="40" style="animation-delay:0.30s">$</text>
   <text class="ch cmd" x="68.2" y="40" style="animation-delay:0.35s"> </text>
