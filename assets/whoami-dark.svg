@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="215" viewBox="0 0 510 215" role="img" aria-label="whoami: stkii — interests: math, statistics, cryptography — portfolio: https://stkii.github.io">
+  <title>whoami — stkii</title>
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 18px; }
+    .ch { text-anchor: middle; }
+    .prompt { fill: #58a6ff; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #8b949e; }
+    .url { fill: #58a6ff; }
+    .ch, .line { opacity: 1; animation: appear .01s linear both; }
+    .cursor { fill: #58a6ff; animation: blink 1.1s steps(1) infinite; }
+    @keyframes appear { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes blink { 0%, 50% { opacity: 1 } 51%, 100% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) {
+      .ch, .line { animation: none; opacity: 1 }
+      .cursor { animation: none }
+    }
+  </style>
+
+  <rect class="card" x="16.75" y="0.75" width="492.5" height="213.5" rx="12" />
+
+  <text class="ch prompt" x="57.4" y="40" style="animation-delay:0.30s">$</text>
+  <text class="ch cmd" x="68.2" y="40" style="animation-delay:0.35s"> </text>
+  <text class="ch cmd" x="79.0" y="40" style="animation-delay:0.40s">w</text>
+  <text class="ch cmd" x="89.8" y="40" style="animation-delay:0.45s">h</text>
+  <text class="ch cmd" x="100.6" y="40" style="animation-delay:0.50s">o</text>
+  <text class="ch cmd" x="111.4" y="40" style="animation-delay:0.55s">a</text>
+  <text class="ch cmd" x="122.2" y="40" style="animation-delay:0.60s">m</text>
+  <text class="ch cmd" x="133.0" y="40" style="animation-delay:0.65s">i</text>
+  <text class="line out" x="52" y="66" style="animation-delay:0.95s">stkii</text>
+  <text class="ch prompt" x="57.4" y="102" style="animation-delay:1.35s">$</text>
+  <text class="ch cmd" x="68.2" y="102" style="animation-delay:1.40s"> </text>
+  <text class="ch cmd" x="79.0" y="102" style="animation-delay:1.45s">l</text>
+  <text class="ch cmd" x="89.8" y="102" style="animation-delay:1.50s">s</text>
+  <text class="ch cmd" x="100.6" y="102" style="animation-delay:1.55s"> </text>
+  <text class="ch cmd" x="111.4" y="102" style="animation-delay:1.60s">~</text>
+  <text class="ch cmd" x="122.2" y="102" style="animation-delay:1.65s">/</text>
+  <text class="ch cmd" x="133.0" y="102" style="animation-delay:1.70s">i</text>
+  <text class="ch cmd" x="143.8" y="102" style="animation-delay:1.75s">n</text>
+  <text class="ch cmd" x="154.6" y="102" style="animation-delay:1.80s">t</text>
+  <text class="ch cmd" x="165.4" y="102" style="animation-delay:1.85s">e</text>
+  <text class="ch cmd" x="176.2" y="102" style="animation-delay:1.90s">r</text>
+  <text class="ch cmd" x="187.0" y="102" style="animation-delay:1.95s">e</text>
+  <text class="ch cmd" x="197.8" y="102" style="animation-delay:2.00s">s</text>
+  <text class="ch cmd" x="208.6" y="102" style="animation-delay:2.05s">t</text>
+  <text class="ch cmd" x="219.4" y="102" style="animation-delay:2.10s">s</text>
+  <text class="line out" x="52" y="128" style="animation-delay:2.40s">math  statistics  cryptography</text>
+  <text class="ch prompt" x="57.4" y="164" style="animation-delay:2.80s">$</text>
+  <text class="ch cmd" x="68.2" y="164" style="animation-delay:2.85s"> </text>
+  <text class="ch cmd" x="79.0" y="164" style="animation-delay:2.90s">c</text>
+  <text class="ch cmd" x="89.8" y="164" style="animation-delay:2.95s">a</text>
+  <text class="ch cmd" x="100.6" y="164" style="animation-delay:3.00s">t</text>
+  <text class="ch cmd" x="111.4" y="164" style="animation-delay:3.05s"> </text>
+  <text class="ch cmd" x="122.2" y="164" style="animation-delay:3.10s">p</text>
+  <text class="ch cmd" x="133.0" y="164" style="animation-delay:3.15s">o</text>
+  <text class="ch cmd" x="143.8" y="164" style="animation-delay:3.20s">r</text>
+  <text class="ch cmd" x="154.6" y="164" style="animation-delay:3.25s">t</text>
+  <text class="ch cmd" x="165.4" y="164" style="animation-delay:3.30s">f</text>
+  <text class="ch cmd" x="176.2" y="164" style="animation-delay:3.35s">o</text>
+  <text class="ch cmd" x="187.0" y="164" style="animation-delay:3.40s">l</text>
+  <text class="ch cmd" x="197.8" y="164" style="animation-delay:3.45s">i</text>
+  <text class="ch cmd" x="208.6" y="164" style="animation-delay:3.50s">o</text>
+  <text class="ch cmd" x="219.4" y="164" style="animation-delay:3.55s">.</text>
+  <text class="ch cmd" x="230.2" y="164" style="animation-delay:3.60s">u</text>
+  <text class="ch cmd" x="241.0" y="164" style="animation-delay:3.65s">r</text>
+  <text class="ch cmd" x="251.8" y="164" style="animation-delay:3.70s">l</text>
+  <text class="ch url" x="57.4" y="190" style="animation-delay:4.00s">h</text>
+  <text class="ch url" x="68.2" y="190" style="animation-delay:4.00s">t</text>
+  <text class="ch url" x="79.0" y="190" style="animation-delay:4.00s">t</text>
+  <text class="ch url" x="89.8" y="190" style="animation-delay:4.00s">p</text>
+  <text class="ch url" x="100.6" y="190" style="animation-delay:4.00s">s</text>
+  <text class="ch url" x="111.4" y="190" style="animation-delay:4.00s">:</text>
+  <text class="ch url" x="122.2" y="190" style="animation-delay:4.00s">/</text>
+  <text class="ch url" x="133.0" y="190" style="animation-delay:4.00s">/</text>
+  <text class="ch url" x="143.8" y="190" style="animation-delay:4.00s">s</text>
+  <text class="ch url" x="154.6" y="190" style="animation-delay:4.00s">t</text>
+  <text class="ch url" x="165.4" y="190" style="animation-delay:4.00s">k</text>
+  <text class="ch url" x="176.2" y="190" style="animation-delay:4.00s">i</text>
+  <text class="ch url" x="187.0" y="190" style="animation-delay:4.00s">i</text>
+  <text class="ch url" x="197.8" y="190" style="animation-delay:4.00s">.</text>
+  <text class="ch url" x="208.6" y="190" style="animation-delay:4.00s">g</text>
+  <text class="ch url" x="219.4" y="190" style="animation-delay:4.00s">i</text>
+  <text class="ch url" x="230.2" y="190" style="animation-delay:4.00s">t</text>
+  <text class="ch url" x="241.0" y="190" style="animation-delay:4.00s">h</text>
+  <text class="ch url" x="251.8" y="190" style="animation-delay:4.00s">u</text>
+  <text class="ch url" x="262.6" y="190" style="animation-delay:4.00s">b</text>
+  <text class="ch url" x="273.4" y="190" style="animation-delay:4.00s">.</text>
+  <text class="ch url" x="284.2" y="190" style="animation-delay:4.00s">i</text>
+  <text class="ch url" x="295.0" y="190" style="animation-delay:4.00s">o</text>
+
+  <rect class="cursor" x="304.4" y="177" width="9" height="16" />
+</svg>
