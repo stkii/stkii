@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="140" viewBox="0 0 780 140" role="img" aria-label="stkii — 01000001 ^ 01101101 = 00101100">
-  <title>stkii — 01000001 ^ 01101101 = 00101100</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="140" viewBox="0 0 780 140" role="img" aria-label="stkii — 73746b6969 ^ 6da41fc852 = 1ed074a13b">
+  <title>stkii — 73746b6969 ^ 6da41fc852 = 1ed074a13b</title>
   <style>
     .card { fill: #0d1117; stroke: #30363d; }
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
@@ -25,36 +25,42 @@
   <text class="name" x="44" y="72">stkii<tspan class="caret">_</tspan></text>
   <text class="tag" x="46" y="100">BA in Psychology. Interested in math, stats and programming.</text>
 
-    <text class="bit in" x="556" y="44">0</text>
-    <text class="bit in" x="569" y="44">1</text>
-    <text class="bit in" x="582" y="44">0</text>
-    <text class="bit in" x="595" y="44">0</text>
-    <text class="bit in" x="608" y="44">0</text>
-    <text class="bit in" x="621" y="44">0</text>
-    <text class="bit in" x="634" y="44">0</text>
-    <text class="bit in" x="647" y="44">1</text>
-  <text class="label" x="678" y="44">A</text>
+    <text class="bit in" x="546" y="44">7</text>
+    <text class="bit in" x="559" y="44">3</text>
+    <text class="bit in" x="576" y="44">7</text>
+    <text class="bit in" x="589" y="44">4</text>
+    <text class="bit in" x="606" y="44">6</text>
+    <text class="bit in" x="619" y="44">b</text>
+    <text class="bit in" x="636" y="44">6</text>
+    <text class="bit in" x="649" y="44">9</text>
+    <text class="bit in" x="666" y="44">6</text>
+    <text class="bit in" x="679" y="44">9</text>
+  <text class="label" x="698" y="44">stkii</text>
 
-  <text class="op" x="534" y="72">^</text>
-    <text class="bit in" x="556" y="72">0</text>
-    <text class="bit in" x="569" y="72">1</text>
-    <text class="bit in" x="582" y="72">1</text>
-    <text class="bit in" x="595" y="72">0</text>
-    <text class="bit in" x="608" y="72">1</text>
-    <text class="bit in" x="621" y="72">1</text>
-    <text class="bit in" x="634" y="72">0</text>
-    <text class="bit in" x="647" y="72">1</text>
-  <text class="label" x="678" y="72">key</text>
+  <text class="op" x="520" y="72">^</text>
+    <text class="bit in" x="546" y="72">6</text>
+    <text class="bit in" x="559" y="72">d</text>
+    <text class="bit in" x="576" y="72">a</text>
+    <text class="bit in" x="589" y="72">4</text>
+    <text class="bit in" x="606" y="72">1</text>
+    <text class="bit in" x="619" y="72">f</text>
+    <text class="bit in" x="636" y="72">c</text>
+    <text class="bit in" x="649" y="72">8</text>
+    <text class="bit in" x="666" y="72">5</text>
+    <text class="bit in" x="679" y="72">2</text>
+  <text class="label" x="698" y="72">key</text>
 
-  <line class="rule" x1="543" y1="84" x2="661" y2="84" />
+  <line class="rule" x1="528" y1="84" x2="686" y2="84" />
 
-    <text class="bit out" x="556" y="110" style="animation-delay:0.00s">0</text>
-    <text class="bit out" x="569" y="110" style="animation-delay:0.10s">0</text>
-    <text class="bit out" x="582" y="110" style="animation-delay:0.20s">1</text>
-    <text class="bit out" x="595" y="110" style="animation-delay:0.30s">0</text>
-    <text class="bit out" x="608" y="110" style="animation-delay:0.40s">1</text>
-    <text class="bit out" x="621" y="110" style="animation-delay:0.50s">1</text>
-    <text class="bit out" x="634" y="110" style="animation-delay:0.60s">0</text>
-    <text class="bit out" x="647" y="110" style="animation-delay:0.70s">0</text>
-  <text class="label out" x="678" y="110" style="animation-delay:.8s">cipher</text>
+    <text class="bit out" x="546" y="110" style="animation-delay:0.00s">1</text>
+    <text class="bit out" x="559" y="110" style="animation-delay:0.10s">e</text>
+    <text class="bit out" x="576" y="110" style="animation-delay:0.20s">d</text>
+    <text class="bit out" x="589" y="110" style="animation-delay:0.30s">0</text>
+    <text class="bit out" x="606" y="110" style="animation-delay:0.40s">7</text>
+    <text class="bit out" x="619" y="110" style="animation-delay:0.50s">4</text>
+    <text class="bit out" x="636" y="110" style="animation-delay:0.60s">a</text>
+    <text class="bit out" x="649" y="110" style="animation-delay:0.70s">1</text>
+    <text class="bit out" x="666" y="110" style="animation-delay:0.80s">3</text>
+    <text class="bit out" x="679" y="110" style="animation-delay:0.90s">b</text>
+  <text class="label out" x="698" y="110" style="animation-delay:.8s">cipher</text>
 </svg>
